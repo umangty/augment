@@ -1,0 +1,19 @@
+{
+  "name": "augment",
+  "version": "1.0.0",
+  "description": "Hiring made easy for teams",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umangty/augment.git"
+  },
+  "author": "Umang Tiwary",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/umangty/augment/issues"
+  },
+  "homepage": "https://github.com/umangty/augment#readme"
+}
